@@ -28,7 +28,7 @@ Este projeto é uma aplicação web desenvolvida com Flask que permite a convers
 
 * Clone o repositório:
 ```
-git clone [<URL_DO_REPOSITORIO>](https://github.com/wendersoon/pdf_para_ofx_mercado_pago.git)
+git clone https://github.com/wendersoon/pdf_para_ofx_mercado_pago.git
 ```
 
 * Instale as dependências:
@@ -41,9 +41,11 @@ pip install -r requirements.txt
 ```
 flask run
 ```
-* Acesse a aplicação: Abra um navegador e vá para http://localhost:5000.
+* Acesse a aplicação
+Abra um navegador e vá para http://localhost:5000.
 
-Utilize o formulário de upload: Selecione um arquivo PDF de extrato bancário do mercado pago e envie-o para converter para o formato OFX.
+* Utilize o formulário de upload
+ Selecione um arquivo PDF de extrato bancário do mercado pago e envie-o para converter para o formato OFX.
 
 ## Contribuições
 
