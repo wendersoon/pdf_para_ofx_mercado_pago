@@ -53,3 +53,7 @@ Contribuições são bem-vindas! Se você encontrar algum bug ou deseja adiciona
 
 ## Licença
 Este projeto está licenciado sob a Licença [MIT](https://github.com/wendersoon/pdf_para_ofx_mercado_pago/blob/main/LICENSE).
+
+## Tela da Página da Aplicação
+![image](https://github.com/user-attachments/assets/811471d8-1779-482c-b8d0-e3575cb57734)
+
